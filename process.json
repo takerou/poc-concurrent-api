@@ -1,6 +1,6 @@
 {
   "apps" : [{
-    "name"        : "bridge-wrap-api",
+    "name"        : "poc-concurrent-api",
     "script"      : "bin/www",
     "watch"       : ["./"],
     "cwd"         : "./"
