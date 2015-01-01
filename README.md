@@ -1,6 +1,6 @@
 poc-concurrent-api
 ==================
-proof of concept for concurrent call
+this project is for concurrent api proof of concept
 
 npm install
 
@@ -15,3 +15,6 @@ npm install
 * JP:
  - http://nodejs.osser.jp/node/node-pm2/
  - http://blog.shonanshachu.com/2013/07/nodejsforeverpm2.html
+
+* command:
+ - pm2 start process.json
